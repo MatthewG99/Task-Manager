@@ -1,4 +1,4 @@
-# Capstone-Project-3
+# Capstone-Project 3
 ## Task Manager
 
 ## Project Details:
